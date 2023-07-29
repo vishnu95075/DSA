@@ -1,0 +1,31 @@
+What is Heap ?
+    A Heap is a Tree-based Data Structure in 
+the tree is a complete binary tree.
+
+There are two type:
+1. Max Heap
+    In the Max Heap the value of the root node must be
+    the greatest among al its child nodes and the same
+    thing be done for its left and right sub-tree also.
+
+Notes:- The total number of comparisons required in the max 
+heap is according to the height of the tree.
+The height of the complete binary tree is always 
+logn; therefore, the time complexity would also 
+be O(logn).
+
+2. Min-Heap: 
+    In this heap, the value of the root node must be the
+    smallest among all its child nodes and the same
+    thing must be done for its left and right sub-tree
+    also.
+
+Notes:- The total number of comparisons required in the min
+heap is according to the height of the tree. The
+height of the complete binary tree is always logn;
+therefore, the time complexity would also be
+O(logn).
+
+* For Heapify its takes O(Log N) 
+* Insertion its takes O(Log N)
+* Deletion its takes O(Log N)

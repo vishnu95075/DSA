@@ -1,0 +1,1 @@
+{"name":"Local: isCycle","url":"c:\\Users\\vishnu\\Desktop\\DS_ALGO\\TUF\\GRAPH\\isCycle.cpp","tests":[{"id":1690534509054,"input":"5 5\n0 1\n1 2\n1 4\n2 3\n3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\vishnu\\Desktop\\DS_ALGO\\TUF\\GRAPH\\isCycle.cpp","group":"local","local":true}

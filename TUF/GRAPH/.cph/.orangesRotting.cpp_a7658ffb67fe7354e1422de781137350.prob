@@ -1,0 +1,1 @@
+{"name":"Local: orangesRotting","url":"c:\\Users\\vishnu\\Desktop\\DS_ALGO\\TUF\\GRAPH\\orangesRotting.cpp","tests":[{"id":1690534323944,"input":"3 3\n0 1 2 \n0 1 2 \n2 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\vishnu\\Desktop\\DS_ALGO\\TUF\\GRAPH\\orangesRotting.cpp","group":"local","local":true}
